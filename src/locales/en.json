@@ -1,0 +1,13 @@
+{
+  "сurrencyConverter": "Currency Converter",
+  "converter": "Converter",
+  "currencies": "Currencies",
+  "convert": "Convert",
+  "errors": {
+    "spelling": "The request failed with an error, check the spelling",
+    "required": "Value is required",
+    "template": "The value must be according to the template"
+  },
+  "currencyLabel":"Base currency",
+  "example":"Example: 15 usd in rub"
+}
